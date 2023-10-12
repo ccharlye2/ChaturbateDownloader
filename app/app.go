@@ -17,8 +17,8 @@ import (
 )
 
 var FMTVars = []string{
-	":SITE",
-	":MODEL_NAME", // name of the model
+	":https://chaturbate.com/",
+	":kittycaitlin", // name of the model
 	// DATE will be yyyy-mm-dd
 	":DATE_STREAM_STARTED",
 	":DATE_DOWNLOAD_STARTED",
